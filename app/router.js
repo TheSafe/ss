@@ -9,4 +9,5 @@ export default Router.map(function() {
   this.route('chat');
   this.route('comment-activity');
   this.route('comments');
+  this.route('aaronsw');
 });
